@@ -23,6 +23,7 @@ dependencies {
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'junit:junit:4.13.1'
+    testImplementation 'org.apache.ant:ant:1.10.14'
 
     // Lombok
     compileOnly 'org.projectlombok:lombok:1.18.34'
